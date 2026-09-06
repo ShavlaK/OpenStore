@@ -8,7 +8,7 @@ build/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata/
+userdata/
 *.xccheckout
 *.moved-aside
 DerivedData/
@@ -25,11 +25,25 @@ DerivedData/
 .LSOverride
 Icon
 
-# Temporary build files
+# Temporary build & release files
 build_tmp/
 tmp_arch/
 dist/
 OpenRestore_Release/
+Setup_Output/
+OpenStore_Windows_App/
+
+# .NET / C# WPF Build Outputs
+OpenStore_Windows_Native/bin/
+OpenStore_Windows_Native/obj/
+**/bin/Debug/
+**/bin/Release/
+**/obj/Debug/
+**/obj/Release/
+
+# Large release packages & installers (uploaded via GitHub Releases)
+*.dmg
+*.ipa
 
 # Python
 __pycache__/
@@ -42,6 +56,20 @@ venv/
 *.cer
 *.p12
 scratch/
+
+# Temporary scratch & test artifacts
+screenshot*.png
+fix*.sh
+fix*.py
+fix_*.patch
+fix_*.swift
+scratch*.py
+test_ui*
+test_automation.swift
+tools/
+.agent/
+_backup_ui_snapshot_tahoe_liquid_glass/
+bmrng_new_inspect/
 
 # Logs
 *.log
