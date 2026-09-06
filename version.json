@@ -1,7 +1,7 @@
 {
   "latest_version": "1.6.5",
-  "min_supported_version": "1.6.5",
-  "mandatory": true,
+  "min_supported_version": "1.6.4",
+  "mandatory": false,
   "release_tag": "v1.6.5",
   "published_at": "2026-09-06T12:00:00Z",
   "release_notes": "Open Store v1.6.5: нативная архитектура Windows (.NET 8 WPF), улучшенная сетевая совместимость на macOS, честный прогресс-бар загрузки и счетчик библиотеки.",
