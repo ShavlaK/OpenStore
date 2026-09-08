@@ -73,3 +73,8 @@ bmrng_new_inspect/
 
 # Logs
 *.log
+# Strictly Local Security and Quality Checklists (NEVER COMMIT OR PUSH)
+SECURITY_INTERNAL.md
+KNOWN_ERRORS_AND_FIXES.md
+INTERNAL_SECURITY_CHECKLIST.md
+INTERNAL_KNOWN_ERRORS_AND_BUGS.md

@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Platform-macOS%2012.0%2B%20%7C%20Windows%2010%2F11-blue?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Architecture-Apple%20Silicon%20%7C%20Intel%20%7C%20Windows%20x64-purple?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Language-Swift%206%20%7C%20C%23%20.NET%208%20WPF-orange?style=for-the-badge&logo=swift" />
-  <img src="https://img.shields.io/badge/Version-1.6.5-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-1.6.6-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FairPlay%20DRM-Genuine%20Apple%20Signed-success?style=for-the-badge" />
 </p>
 
@@ -69,13 +69,13 @@
 ## 🚀 Быстрый старт
 
 ### Вариант 1: Установка на macOS (Рекомендуется)
-1. Скачайте последнюю версию **`OpenStore-v1.6.5-Mac-AppleSilicon.dmg`** или **`OpenStore-v1.6.5-Mac-Intel.dmg`** из раздела [Releases](https://github.com/ShavlaK/OpenStore/releases).
+1. Скачайте последнюю версию **`OpenStore-v1.6.6-Mac-AppleSilicon.dmg`** или **`OpenStore-v1.6.6-Mac-Intel.dmg`** из раздела [Releases](https://github.com/ShavlaK/OpenStore/releases).
 2. Перетяните `Open Store.app` в папку `Программы` (`Applications`).
 3. Запустите приложение.
 
 ### Вариант 2: Для пользователей Windows
-1. Скачайте архив **`OpenStore-v1.6.5-Windows-x64.zip`**.
-2. Распакуйте в удобную папку и запустите `OpenStore.exe`.
+1. Скачайте установщик **`OpenStore_Setup_v1.6.6.exe`** (или переносимый архив **`OpenStore-v1.6.6-Windows-x64.zip`**).
+2. Запустите установку или распакуйте архив и запустите `OpenStore.exe`.
 
 ---
 
