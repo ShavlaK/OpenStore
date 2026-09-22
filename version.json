@@ -5,7 +5,7 @@
   "mandatory": false,
   "release_tag": "v1.6.8",
   "published_at": "2026-09-22T03:00:00Z",
-  "release_notes": "Open Store v1.6.8: Полноценная светлая тема интерфейса на macOS и Windows с аккуратными контрастными карточками и разделителями. Обновлен экран покупок и загрузок, возвращено классическое название приложения Open Store.",
+  "release_notes": "Open Store v1.6.8: Полноценная светлая тема интерфейса на macOS и Windows с аккуратными контрастными карточками и разделителями. Обновлен экран покупок и оптимизирована работа менеджера загрузок.",
   "downloads": {
     "mac_arm64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.8/OpenStore-v1.6.8-Mac-AppleSilicon.zip",
     "mac_x86_64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.8/OpenStore-v1.6.8-Mac-Intel.zip",
