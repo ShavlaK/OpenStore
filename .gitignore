@@ -35,6 +35,7 @@ OpenStore_Windows_App/
 
 # .NET / C# WPF Build Outputs
 OpenStore_Windows_Native/bin/
+bin/os-core-*
 OpenStore_Windows_Native/obj/
 **/bin/Debug/
 **/bin/Release/
@@ -44,6 +45,7 @@ OpenStore_Windows_Native/obj/
 # Large release packages & installers (uploaded via GitHub Releases)
 *.dmg
 *.ipa
+*.zip
 
 # Python
 __pycache__/
