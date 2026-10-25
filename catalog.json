@@ -55,7 +55,9 @@
         "ru.tinkoff.invest",
         "ru.tinkoff.junior",
         "ru.myreview",
+        "com.toastmaster.app",
         "6778332772",
+        "6774629936",
         "6756064549",
         "6754170588",
         "455652438",
@@ -68,6 +70,10 @@
         {
           "label": "AirT (Актуальная)",
           "adam_id": 6778332772
+        },
+        {
+          "label": "T (Toastmaster)",
+          "adam_id": 6774629936
         },
         {
           "label": "Т-Старт (CraftT)",
