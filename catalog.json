@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "СберБанк",
+      "name": "СберБанк (Онлайн)",
       "bundle_id": "ru.sberbank.onlineiphone",
       "bundle_ids": [
         "ru.sberbank.onlineiphone",
@@ -9,6 +9,7 @@
         "ru.sberbank.ios.sbol",
         "ru.sber.sbol",
         "ru.sberbank.invest",
+        "com.digit.budg",
         "6749261529",
         "6742457200",
         "6636482626",
@@ -18,89 +19,171 @@
       ],
       "adam_id": 6749261529,
       "category": "Банки и финансы",
-      "description": "СберБанк Онлайн",
+      "subcategory": "Банки и финансы",
+      "version": "1.0.0",
+      "description": "Официальный мобильный банк СберБанк Онлайн для iOS.",
+      "icon_name": "sberbank.png",
       "versions": [
         {
           "label": "Онлайн 15.3 (Актуальная)",
-          "adam_id": 6749261529
+          "adam_id": 6749261529,
+          "version_str": "1.0.0",
+          "bundle_id": "ru.sberbank.onlineiphone",
+          "is_delisted": true,
+          "size_str": "0.0 МБ",
+          "size_bytes": 367
         },
         {
           "label": "Бюджет Онлайн",
-          "adam_id": 6742457200
+          "adam_id": 6742457200,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "0.0 МБ",
+          "size_bytes": 367
         },
         {
           "label": "Умный Онлайн",
-          "adam_id": 6636482626
+          "adam_id": 6636482626,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "0.0 МБ",
+          "size_bytes": 367
         },
         {
           "label": "Учет Онлайн",
-          "adam_id": 6478108541
+          "adam_id": 6478108541,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "0.0 МБ",
+          "size_bytes": 367
         },
         {
           "label": "СБОЛ",
-          "adam_id": 6769745089
+          "adam_id": 6769745089,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "0.0 МБ",
+          "size_bytes": 367
         },
         {
           "label": "СберБанк (Классическая)",
-          "adam_id": 492224193
+          "adam_id": 492224193,
+          "version_str": "12.15.0",
+          "bundle_id": "ru.sberbank.onlineiphone",
+          "is_delisted": true,
+          "size_str": "277.8 МБ",
+          "size_bytes": 291271337
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "0.0 МБ",
+      "size_bytes": 367
     },
     {
-      "name": "Т-Банк",
+      "name": "Т-Банк (Тинькофф)",
       "bundle_id": "com.tcsbank.mobile",
       "bundle_ids": [
         "com.tcsbank.mobile",
+        "6778332772",
+        "6774629936",
+        "6756064549",
+        "6755148640",
+        "6753805477",
+        "455652438",
+        "458663497",
         "com.tcsbank.business",
         "ru.tinkoff.invest",
         "ru.tinkoff.junior",
         "ru.myreview",
         "com.toastmaster.app",
-        "6778332772",
-        "6774629936",
-        "6756064549",
         "6754170588",
-        "455652438",
-        "458663497"
+        "com.birds.voices.app",
+        "balloon.pilot.log"
       ],
       "adam_id": 6778332772,
       "category": "Банки и финансы",
-      "description": "Мобильный банк Т-Банк / Тинькофф",
+      "subcategory": "Банки и финансы",
+      "version": "2.1.1",
+      "description": "Мобильный банк и экосистема сервисов Т-Банк.",
+      "icon_name": "tbank.png",
       "versions": [
         {
           "label": "AirT (Актуальная)",
-          "adam_id": 6778332772
+          "adam_id": 6778332772,
+          "version_str": "2.1.1",
+          "bundle_id": "balloon.pilot.log",
+          "is_delisted": true,
+          "size_str": "434.0 МБ",
+          "size_bytes": 455054761
         },
         {
           "label": "T (Toastmaster)",
-          "adam_id": 6774629936
+          "adam_id": 6774629936,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "434.0 МБ",
+          "size_bytes": 455054761
         },
         {
           "label": "Т-Старт (CraftT)",
-          "adam_id": 6756064549
+          "adam_id": 6756064549,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "434.0 МБ",
+          "size_bytes": 455054761
         },
         {
           "label": "Т-Помощь (DocT / Мой Отзыв)",
-          "adam_id": 6754170588
+          "adam_id": 6754170588,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "434.0 МБ",
+          "size_bytes": 455054761
         },
         {
           "label": "Т-Банк (Основная)",
-          "adam_id": 455652438
+          "adam_id": 455652438,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "434.0 МБ",
+          "size_bytes": 455054761
         },
         {
           "label": "Тинькофф (Классическая)",
-          "adam_id": 458663497
+          "adam_id": 458663497,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "434.0 МБ",
+          "size_bytes": 455054761
+        },
+        {
+          "label": "TBirds (1.21.1)",
+          "adam_id": 6753805477,
+          "version_str": "1.21.1",
+          "bundle_id": "com.birds.voices.app",
+          "is_delisted": true,
+          "size_str": "400.1 МБ",
+          "size_bytes": 419553138
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "434.0 МБ",
+      "size_bytes": 455054761
     },
     {
       "name": "Альфа-Банк",
       "bundle_id": "ru.alfabank.mobile.ios",
       "bundle_ids": [
         "ru.alfabank.mobile.ios",
-        "ru.alfabank.mobile",
-        "ru.alfabank.investments",
-        "ru.alfabank.business",
         "6755534634",
         "6449542227",
         "6739035108",
@@ -108,110 +191,210 @@
         "6774584229",
         "6747703692",
         "1633409806",
-        "359397980"
+        "359397980",
+        "ru.alfabank.mobile",
+        "ru.alfabank.investments",
+        "ru.alfabank.business",
+        "com.alfoto.app",
+        "com.splitactivities.app"
       ],
       "adam_id": 6755534634,
       "category": "Банки и финансы",
-      "description": "Альфа-Банк для iOS",
+      "subcategory": "Банки и финансы",
+      "version": "2.0",
+      "description": "Управление счетами, картами и переводами Альфа-Банка.",
+      "icon_name": "alfabank.png",
       "versions": [
         {
           "label": "Актуальная (Основная)",
-          "adam_id": 6755534634
+          "adam_id": 6755534634,
+          "version_str": "2.0",
+          "bundle_id": "com.alfoto.app",
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         },
         {
           "label": "Деньги пришли",
-          "adam_id": 6449542227
+          "adam_id": 6449542227,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         },
         {
           "label": "Деньги в порядке",
-          "adam_id": 6739035108
+          "adam_id": 6739035108,
+          "version_str": "28052025.3",
+          "bundle_id": "com.splitactivities.app",
+          "is_delisted": true,
+          "size_str": "402.1 МБ",
+          "size_bytes": 421660583
         },
         {
           "label": "В кармане (Вместе)",
-          "adam_id": 6755510943
+          "adam_id": 6755510943,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         },
         {
           "label": "Альфа Онлайн",
-          "adam_id": 6774584229
+          "adam_id": 6774584229,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         },
         {
           "label": "Мобильный Альфа",
-          "adam_id": 6747703692
+          "adam_id": 6747703692,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         },
         {
           "label": "Деньги всем",
-          "adam_id": 1633409806
+          "adam_id": 1633409806,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         },
         {
           "label": "Альфа-Банк (Классическая)",
-          "adam_id": 359397980
+          "adam_id": 359397980,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "330.8 МБ",
+          "size_bytes": 346900130
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "330.8 МБ",
+      "size_bytes": 346900130
     },
     {
-      "name": "ВТБ",
+      "name": "ВТБ Онлайн",
       "bundle_id": "ru.vtb24.mobilebanking.ios",
       "bundle_ids": [
         "ru.vtb24.mobilebanking.ios",
+        "6749962031",
+        "6759036480",
+        "413284506",
         "ru.vtb.mobilebanking",
         "ru.vtb.invest",
         "com.whenly.app",
         "ru.allfinance",
-        "6749962031",
-        "413284506",
-        "6759036480",
         "1668270529"
       ],
       "adam_id": 6749962031,
       "category": "Банки и финансы",
-      "description": "ВТБ Мобильный банк",
+      "subcategory": "Банки и финансы",
+      "version": "18.1.0",
+      "description": "Банковские услуги и инвестиции банка ВТБ.",
+      "icon_name": "vtb.png",
       "versions": [
         {
           "label": "Сириус (Актуальная)",
-          "adam_id": 6749962031
+          "adam_id": 6749962031,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "ВТБ Онлайн (Оригинальная)",
-          "adam_id": 413284506
+          "adam_id": 413284506,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "Накопи Фест",
-          "adam_id": 6759036480
+          "adam_id": 6759036480,
+          "version_str": "1.4",
+          "bundle_id": "com.whenly.app",
+          "is_delisted": true,
+          "size_str": "208.4 МБ",
+          "size_bytes": 218540157
         },
         {
           "label": "Все карты",
-          "adam_id": 1668270529
+          "adam_id": 1668270529,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": null,
+      "size_bytes": null
     },
     {
-      "name": "Совкомбанк",
+      "name": "Совкомбанк (Халва)",
       "bundle_id": "ru.sovcomcard.halva",
       "bundle_ids": [
         "ru.sovcomcard.halva",
-        "ru.sovcombank.business",
-        "ru.fingram",
         "6764576497",
+        "6754170588",
+        "6755602284",
         "1205364805",
-        "6758455334"
+        "6758455334",
+        "ru.sovcombank.business",
+        "ru.fingram"
       ],
       "adam_id": 6764576497,
       "category": "Банки и финансы",
-      "description": "Совкомбанк / Халва",
+      "subcategory": "Банки и финансы",
+      "version": "4.14.0",
+      "description": "Карта рассрочки Халва и мобильный банк Совкомбанка.",
+      "icon_name": "sovcombank.png",
       "versions": [
         {
           "label": "Совкомбанк (Актуальная)",
-          "adam_id": 6764576497
+          "adam_id": 6764576497,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "Халва",
-          "adam_id": 1205364805
+          "adam_id": 1205364805,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "ФинГрам",
-          "adam_id": 6758455334
+          "adam_id": 6758455334,
+          "version_str": "1.1",
+          "bundle_id": "ru.fingram",
+          "is_delisted": true,
+          "size_str": "78.3 МБ",
+          "size_bytes": 82124370
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": null,
+      "size_bytes": null
     },
     {
       "name": "Газпромбанк",
@@ -247,21 +430,42 @@
       ],
       "adam_id": 6759281643,
       "category": "Банки и финансы",
+      "subcategory": "Банки и финансы",
+      "version": "15.0",
       "description": "Русский Стандарт Онлайн",
+      "icon_name": "com.rsins.rs.png",
       "versions": [
         {
           "label": "Актуальная (Основная)",
-          "adam_id": 6759281643
+          "adam_id": 6759281643,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "РС Онлайн",
-          "adam_id": 6446702225
+          "adam_id": 6446702225,
+          "version_str": "6.47.3",
+          "bundle_id": "com.rsins.rs",
+          "is_delisted": true,
+          "size_str": "117.2 МБ",
+          "size_bytes": 122939009
         },
         {
           "label": "РС Онлайн (Классическая)",
-          "adam_id": 442531649
+          "adam_id": 442531649,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": null,
+      "size_bytes": null
     },
     {
       "name": "ПСБ (Промсвязьбанк)",
@@ -296,17 +500,33 @@
       ],
       "adam_id": 1634422317,
       "category": "Банки и финансы",
+      "subcategory": "Банки и финансы",
+      "version": "0.234.4",
       "description": "Яндекс Пэй и Яндекс Банк",
+      "icon_name": "com.yandex.fintech.bank-app.png",
       "versions": [
         {
           "label": "Яндекс Пэй",
-          "adam_id": 1634422317
+          "adam_id": 1634422317,
+          "version_str": "0.234.4",
+          "bundle_id": "com.yandex.fintech.bank-app",
+          "is_delisted": true,
+          "size_str": "87.2 МБ",
+          "size_bytes": 91454491
         },
         {
           "label": "Яндекс Банк",
-          "adam_id": 1618218671
+          "adam_id": 1618218671,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "87.2 МБ",
+          "size_bytes": 91454491
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "87.2 МБ",
+      "size_bytes": 91454491
     },
     {
       "name": "Сравни.ру",
@@ -318,17 +538,33 @@
       ],
       "adam_id": 6755602284,
       "category": "Банки и финансы",
+      "subcategory": "Банки и финансы",
+      "version": "1.0.0",
       "description": "Сравни — финансовый маркетплейс",
+      "icon_name": "ru.sravni.png",
       "versions": [
         {
           "label": "Подбор кредитов и страховок",
-          "adam_id": 6755602284
+          "adam_id": 6755602284,
+          "version_str": "1.0.0",
+          "bundle_id": "ru.sravni",
+          "is_delisted": true,
+          "size_str": "104.2 МБ",
+          "size_bytes": 109278948
         },
         {
           "label": "ОСАГО, кредиты, вклады",
-          "adam_id": 1546781290
+          "adam_id": 1546781290,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "104.2 МБ",
+          "size_bytes": 109278948
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "104.2 МБ",
+      "size_bytes": 109278948
     },
     {
       "name": "Ozon Банк",
@@ -372,15 +608,31 @@
     {
       "name": "УБРиР (РУбли)",
       "bundle_id": "app.openstore.ubrr",
+      "bundle_ids": [
+        "app.openstore.ubrr",
+        "ru.coinsplit.m",
+        "6754563452"
+      ],
       "adam_id": 6754563452,
       "category": "Банки и финансы",
+      "subcategory": "Банки и финансы",
+      "version": "5.18.0",
       "description": "УБРиР Мобильный банк (РУбли)",
+      "icon_name": "app.openstore.ubrr.png",
       "versions": [
         {
           "label": "РУбли",
-          "adam_id": 6754563452
+          "adam_id": 6754563452,
+          "version_str": "5.18.0",
+          "bundle_id": "ru.coinsplit.m",
+          "is_delisted": true,
+          "size_str": "166.6 МБ",
+          "size_bytes": 174741424
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "166.6 МБ",
+      "size_bytes": 174741424
     },
     {
       "name": "РСХБ Бизнес (Тракторный Клуб)",
@@ -472,15 +724,31 @@
     {
       "name": "СургутНефтеГазБанк (Черника Онлайн)",
       "bundle_id": "ru.sngb.chernika",
+      "bundle_ids": [
+        "ru.sngb.chernika",
+        "BlueBR",
+        "6776650255"
+      ],
       "adam_id": 6776650255,
       "category": "Банки и финансы",
+      "subcategory": "Банки и финансы",
+      "version": "2.351.4",
       "description": "Черника Онлайн",
+      "icon_name": "ru.sngb.chernika.png",
       "versions": [
         {
           "label": "Черника Онлайн",
-          "adam_id": 6776650255
+          "adam_id": 6776650255,
+          "version_str": "2.351.4",
+          "bundle_id": "BlueBR",
+          "is_delisted": true,
+          "size_str": "83.5 МБ",
+          "size_bytes": 87559655
         }
-      ]
+      ],
+      "is_delisted": true,
+      "size_mb": "83.5 МБ",
+      "size_bytes": 87559655
     },
     {
       "name": "Online (Ингосстрах Банк)",
@@ -582,19 +850,34 @@
         "com.vk.vkvideo.prod"
       ],
       "adam_id": 6447614666,
-      "category": "Медиа и видео",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Связь и медиа",
+      "version": "8.183",
       "description": "Видеоплатформа и трансляции ВКонтакте",
+      "icon_name": "com.vk.vkvideo.prod.png",
       "versions": [
         {
           "label": "ВК Видео (Актуальная)",
-          "adam_id": 6447614666
+          "adam_id": 6447614666,
+          "version_str": "8.183",
+          "bundle_id": "com.vk.vkvideo.prod",
+          "is_delisted": true,
+          "size_str": "236.7 МБ",
+          "size_bytes": 248183082
         },
         {
           "label": "VK Видео (Альтернативная)",
-          "adam_id": 6449195328
+          "adam_id": 6449195328,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": "236.7 МБ",
+          "size_bytes": 248183082
         }
       ],
-      "icon_url": "data:image/png;base64,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"
+      "is_delisted": true,
+      "size_mb": "236.7 МБ",
+      "size_bytes": 248183082
     },
     {
       "name": "Rutube (Рутуб)",
@@ -605,26 +888,47 @@
         "966511294",
         "app.openstore.local-5zmesf",
         "app.openstore.local-8b4l8o",
-        "app.openstore.rutub"
+        "app.openstore.rutub",
+        "ru.rutube.main"
       ],
       "adam_id": 6766530710,
-      "category": "Медиа и видео",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Связь и медиа",
+      "version": "15.0",
       "description": "Российский национальный видеохостинг",
+      "icon_name": "app.openstore.local-5zmesf.png",
       "versions": [
         {
           "label": "SlicingDices (Актуальная)",
-          "adam_id": 6766530710
+          "adam_id": 6766530710,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "Starship Battle: Commander",
-          "adam_id": 6760892177
+          "adam_id": 6760892177,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": true,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "Рутуб (Оригинальная)",
-          "adam_id": 966511294
+          "adam_id": 966511294,
+          "version_str": "46.6",
+          "bundle_id": "ru.rutube.main",
+          "is_delisted": true,
+          "size_str": "52.2 МБ",
+          "size_bytes": 54754460
         }
       ],
-      "icon_url": "data:image/webp;base64,UklGRuICAABXRUJQVlA4INYCAABwEgCdASpgAGAAPlEijkQjoiGY6swAOAUEoA0bkM9eK6B+TPDnSY3wNuT5gP1N3TPrd/QA6Xv9jsEl7XK6HKyOfc0HO4Hqob4AbE9ehzotgkhId1GkWB8h+D6vStac+aSu6lEhtZoHIw5beITPF3wgC5sElCu+8eA85i3mm5BEmgjhGTEeqQ0gzf/eomiAMCnmBqPe4ZZOi8cLcwAA/vyj3/4koXb6fNY3RA5/JWX8ccAWuwKrHt4XZKXSITX/acYzXJ90D2//ggMbMUvxIX2If/aluTR5P3Jf8Q3OGXLtaIaJGVYp/I2qL+R//y5P/2GfeW/dOeO85c5xw2IJc4gW0ltmDTiC3qDoQfMnVJbr1kYBX/jFYJw180NZJ/wqCzDxkyOo/2HPDmuEYS/K/kmMlZAkRuFY9ZbMEMtI2hteOiP+s5ePn3V9SDf4fRBNzg7Ahf5dbvW2D2eszdztgma3o3iUPxnzD8V6ePljgDOD07n2bgw+w7roXDeNwZZmrRDMO4lArNmhmJ4W2QmYOUmDGuTTpDVbW1fj5qPn5kMXVjWv6IzhEFMcyMV0CP7/gWTa419XGlyhqgDW5iaYM7xQevFC/H/bcRFcp4bvnwkgeCqSC1sLanSdTKX4tvZ8ebACSHvjvuty8L8T55z/6Sh08M51uka3Qzzgx/CSc/5Ff/0gcvlZnZT46Lr+7PU4334zMZUf/kUv9+QmxaW3xr8kw+PpaRTpYMdXL8Me4LDFd45pizPnAS3vedsic0lR97i1bis0T4IdavqCoZuZ+/EdPnMPiw1CHtflcTon+eB8f/Ogr9Kfg1JmrliFK4UsaIn6b25WSb4SE82iyckvvE2B6pdjmXmhv5o/FZjLpK79JGFDOsEutNaS7vLfz1vhbt4vFMuojIPjj9dPxzNzIpfYx/dVD9pq+rb6Aby6XftTHVoxQpdRkC5nwdDn3BfE2MfNmgAAAAA="
+      "is_delisted": true,
+      "size_mb": null,
+      "size_bytes": null
     },
     {
       "name": "Premier",
@@ -720,18 +1024,29 @@
       "bundle_id": "app.openstore.vkmusic",
       "bundle_ids": [
         "1054372220",
-        "app.openstore.vkmusic"
+        "app.openstore.vkmusic",
+        "com.music.vk"
       ],
       "adam_id": 1054372220,
-      "category": "Музыка и звук",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Связь и медиа",
+      "version": "8.30.1",
       "description": "Музыкальный стриминг ВКонтакте",
+      "icon_name": "app.openstore.vkmusic.png",
       "versions": [
         {
           "label": "VK Музыка",
-          "adam_id": 1054372220
+          "adam_id": 1054372220,
+          "version_str": "8.30.1",
+          "bundle_id": "com.music.vk",
+          "is_delisted": true,
+          "size_str": "180.7 МБ",
+          "size_bytes": 189516212
         }
       ],
-      "icon_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABgAGADASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAYEBQcDAf/EADoQAAEDAgQCBgcFCQAAAAAAAAEAAgMEBQYHETEhQRITNlFzshQ0NWFxdLEiYoGh0RUjMkJSU3KR4f/EABwBAAICAwEBAAAAAAAAAAAAAAAFAwQBBgcCCP/EADMRAAEDAgQCBwcFAQAAAAAAAAEAAgMEBREhMXFRgQYHEhM1ocEjNEFhkbHSIiQlMuFS/9oADAMBAAIRAxEAPwCRREX0auHoiIhCIiIQiIiEIiIhCIiIQiIiEIiIhCIsigoqmuqBBSxOkee7YDvJ5BXFhwzS0IbNVdGoqN+I+yz4Dn8SqlTWR04zzPBbT0c6I3C/P9i3sxjV505cT8hzwUtasO3K4ASNjEMR/nl4aj3Dcrew4Lpw0ddXSud9xgA/PVVfPVfUjluU7zkcAu123q2slJGBMwyu4uJ8gCB9cd1JT4LhLf3FdID99gP0WkueHLnQgvMQnjG74uP+xuF0hER3KdhzOO6Lj1a2SrYREwxO4tJPkcR9MN1x9F0a+YdoriHSMaIKn+40cHf5Dn8d1B3O31NuqTBVRlrtweTh3g807pa2OoyGR4Li/STodX2F3akHajOjxpz4Hy4ErFRV7MFHX7dwGn3Yv+rOpcH22PjNJPOe4uDR+X6qN1zp26HHkmFP1bX+Z2DowwcS4ehJ8lCRsfI8MjY57js1o1JVHZsJ1VQRJXuNNH/QOLz+isqKgo6JvRpaaOH3tbxP47rIS6e6veMIxh91v9j6rKWmcJbg/vD/AMjJvM6ny5rwoKKmoIBBSwtjYN9Nz7yeayEW3wth24Yiq3wUIja2IAySyHRrNdttye5JppmxtMkhwHxK6h7CihwADGNGwAWoV/lXhe13ilqrhc4fSBHL1UcRcQ0cASTpvuFMYpw7cMO1ccFb1b2ygmOWMnou0332I7l0TJLs5V/NnyNSe71X7HvIXZEjMJReqz+P72B+RIzCj8zsP0diu8HoALIKmMv6sknoEHQ6E8uIUmuiZ4+0bZ4MnmapzCmELpiKGSopXQwU7HdHrJSdHO7gApaCrDaFks7uZ3U1trWst7Jqh3M7kKeWLcqKmr6Z0FTGHtPEHm094PIrcX21VlluUlvrmBsrACC06tc07EHuWCmscgcA9h2KZPZDVwlrgHMcNwQi3WDLE7EN7bQ9aYYmsMkrwNSGjQcPeSQtKrHKGsp6TFZbUStj6+ndHGXHQF2oOn5FVbhI+Ome+PUBQ3KWSKlkfH/YBe+YGCKew25lxoKmaSEPEcrJdCRrsQQBz5LUYDw2MSXSSCWd0NPAwPlc0auOp0AGv48V0DOSspo8LijdK3r5pmFkevEhp1J+Cmsl6yngvVZTzStZJPC3qgTp0i0nUD38Ulp6ypda3yk/qGh+WX+pFTV1U60PmJJcND8sv9WJmHg+HDscFXR1EktNM/qy2XTpMdpqOI3B0K3+Rvq918SP6OXpnbWU37KoqHrWmoNR1vQB4hoaRqe7iQvPI31e6+JH5XKGWaWazl8pxOPqFXmnlnsZfKcTiM+YTPP1a0+JL5WrMyS7O1fzZ8jVh55+rWnxJfK1ZmSXZ2r+bPkaq7/Bm7+pVeTwJu/qVp88faNs8GTzNVJlB2Mi8eXzKbzx9o2zwZPMFSZQdjIvHl8yzU+Dxb/kiq8Di3/JSGdPaim+Tb5nKGVznT2opvk2+dyhlsNp9zj2Wz2b3CLZERExTNfXuc89J7i495OpXwHQ6jdERgjBfXOc5xc5xc47knUlW2VOIrdZZ6ymuMnUR1HRcyUgloLdRodNt91EIq9VSsqYjE/QqrWUjKuEwv0PBW+a+I7fep6KmtsnXspum58oBDSXaDQa77bqlyT7OVfzZ8jVyNdaySew2CtjDh0m1WpHMAsbp9Ckl1pW0tt7pmgI+6QXmkZSWsQx6Aj7rU54+0bZ4MnmavfK/Fdot1kdbblUtpZI5XPY94PReHcd+RCxs73sN1tsYcC5sDyR3AuGn0K56pKOiZWW1kb8vj5lS0NAyttUcUmI+OW5VJmPe6W+4i9JotXU8UTYmPII6ehJJ0PLiptETqngbBG2NmgT6mgbTxNiZoEREUqmRERCEREQhFlWy419snM9vq5qaQjQujdpqO496xUWHNa8dlwxC8vY147LhiF61tVU1tS+pq55J5n/AMT3u1JXkiIADRgFlrQ0YDRERFlZX//Z"
+      "is_delisted": true,
+      "size_mb": "180.7 МБ",
+      "size_bytes": 189516212
     },
     {
       "name": "Wildberries",
@@ -744,22 +1059,43 @@
         "ru.wildberries.buyer"
       ],
       "adam_id": 594913976,
-      "category": "Покупки и доставка",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Маркетплейсы и ритейл",
+      "version": "15.0",
       "description": "Крупнейший маркетплейс товаров",
+      "icon_name": "ru.wildberries.buyer.png",
       "versions": [
         {
           "label": "Wildberries (Официальная)",
-          "adam_id": 594913976
+          "adam_id": 594913976,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": false,
+          "size_str": null,
+          "size_bytes": null
         },
         {
           "label": "Ягодный Фест (Актуальная)",
-          "adam_id": 6754039506
+          "adam_id": 6754039506,
+          "version_str": "1.0.8",
+          "bundle_id": "com.berries.volfest.berriesVolfest",
+          "is_delisted": false,
+          "size_str": "57.0 МБ",
+          "size_bytes": 59774156
         },
         {
           "label": "Ягодный Фест (Альтернативная)",
-          "adam_id": 6475730768
+          "adam_id": 6475730768,
+          "version_str": "15.0",
+          "bundle_id": null,
+          "is_delisted": false,
+          "size_str": null,
+          "size_bytes": null
         }
-      ]
+      ],
+      "is_delisted": false,
+      "size_mb": null,
+      "size_bytes": null
     },
     {
       "name": "Ozon",
@@ -940,14 +1276,25 @@
         "ru.smartbuys.delivery"
       ],
       "adam_id": 6744347739,
-      "category": "Покупки и доставка",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Маркетплейсы и ритейл",
+      "version": "6.13.4",
       "description": "Сеть магазинов косметики и бытовой химии",
+      "icon_name": "ru.smartbuys.delivery.png",
       "versions": [
         {
           "label": "УП - доставка",
-          "adam_id": 6744347739
+          "adam_id": 6744347739,
+          "version_str": "6.13.4",
+          "bundle_id": "ru.smartbuys.delivery",
+          "is_delisted": false,
+          "size_str": "150.0 МБ",
+          "size_bytes": 157240417
         }
-      ]
+      ],
+      "is_delisted": false,
+      "size_mb": "150.0 МБ",
+      "size_bytes": 157240417
     },
     {
       "name": "Почта России",
@@ -972,22 +1319,39 @@
       "bundle_ids": [
         "1467701468",
         "417281773",
-        "app.openstore.avito"
+        "app.openstore.avito",
+        "ru.avito.app",
+        "org.reactjs.native.prod.AuReactNativeApp"
       ],
       "adam_id": 417281773,
-      "category": "Покупки и объявления",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Маркетплейсы и ритейл",
+      "version": "200.5",
       "description": "Сервис объявлений и товаров Avito",
+      "icon_name": "app.openstore.avito.png",
       "versions": [
         {
           "label": "Авито (Основная)",
-          "adam_id": 417281773
+          "adam_id": 417281773,
+          "version_str": "200.5",
+          "bundle_id": "ru.avito.app",
+          "is_delisted": true,
+          "size_str": "804.7 МБ",
+          "size_bytes": 843742388
         },
         {
           "label": "Au (Альтернативная)",
-          "adam_id": 1467701468
+          "adam_id": 1467701468,
+          "version_str": "224.0",
+          "bundle_id": "org.reactjs.native.prod.AuReactNativeApp",
+          "is_delisted": true,
+          "size_str": "553.2 МБ",
+          "size_bytes": 580072040
         }
       ],
-      "icon_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAwFBMVEX///8E4GEAqv//QFOWXuvf++sgtf8U4mtAv//v+v/f9f+/6v8k5HX/5+pi7Jzy6/3/z9T/cH4Qr//A+Njv/fX/WGhgyv9D6Ij/TF7/h5Nx7qb49f6h9MT/8/Vw0P+Q2v+g3/+daOyB8LD/t7//n6mjcu7Q+eL/29//ZHOR8rqv5f/KrvWwhvCA1P/YwvfDpPRQxP9T6pIz5n/l1/q9mvOqfO/P7/+w9s7/w8n/lJ7/fIj/q7Tezfnr4PvRuPa3kfJub9RIAAACQElEQVR42u2ZWXOCMBSFCeBWFxC0uFaLe6fWqV3s2Jn+/59VFagsIblZqC/5nlqM58xJcpPLqGkKhUKhuDVPVf2M81ArQr2uJ7grWF+2w8TRM5Ql6pd1LHwhduaJxQ9An8vhxYyw6Pq6zrydzBhv4bOtTmDCpr+IG5jhQ50Ik76V0Dc/aBPEvJd2SQMTEIAtgokxmNIM6gIGFiAAU4R/N8AdQULV9pw1eKAbTLgjvJ+eVOkG9xpvBEAVnKkyGAzj+rsCDDRrkZgg6VN0PS4eh8G/khc5mqnrn59StykOqYVWsIHroRDPjV33NP0pTL1UQUla0AgwfQ9l8MKPHAkXjo+w+JcPa+IBUC70UtgCZh8RKIm3LUR9hBrEZQDUWAchgAN/6+gjKoNLNWAsHE14fmLrkL07Qd1EC2Lg4V4QHFi3gkDwv0I1YAYV7pMSIcYIjAygBoPUF1ezL1tmgESE8doI6TYLMLC7RowuWX8JN4guoLWRghjiADfYBN9opvWN3kq0ygJec/TJGfZwg8uJpxlYhMvsb5X7eIO2NAPDYIzAOEWzPIO5cCEHi9wzWCMwbNMDYYbyDTpwgyWXgSZnjW9psIHqjzgN2C4cHgMPph/c+v08/basSz/PgHRkg1bBDwf3mGcIGCEaO8fr98mvTcAtxHVcwzK0YmNx+mPB3mIfHzrOyNM7C4pDemxqob8FO8gGZnAbVgCgLt7Fj7aPZ/WjzdRFjhqE3SOHVBNTcQv4jWMUnk37jfo1SaFQKG7LL8tTKRnFIlUNAAAAAElFTkSuQmCC"
+      "is_delisted": true,
+      "size_mb": "804.7 МБ",
+      "size_bytes": 843742388
     },
     {
       "name": "Юла",
@@ -1226,18 +1590,29 @@
       "bundle_id": "app.openstore.odnoklassniki",
       "bundle_ids": [
         "398465290",
-        "app.openstore.odnoklassniki"
+        "app.openstore.odnoklassniki",
+        "ru.odnoklassniki.iphone"
       ],
       "adam_id": 398465290,
-      "category": "Социальные сети",
+      "category": "Бизнес и утилиты",
+      "subcategory": "Связь и медиа",
+      "version": "11.63.1",
       "description": "Социальная сеть Одноклассники (OK.ru)",
+      "icon_name": "app.openstore.odnoklassniki.png",
       "versions": [
         {
           "label": "Одноклассники (Основная)",
-          "adam_id": 398465290
+          "adam_id": 398465290,
+          "version_str": "11.63.1",
+          "bundle_id": "ru.odnoklassniki.iphone",
+          "is_delisted": false,
+          "size_str": "316.1 МБ",
+          "size_bytes": 331486057
         }
       ],
-      "icon_url": "data:image/png;base64,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"
+      "is_delisted": false,
+      "size_mb": "316.1 МБ",
+      "size_bytes": 331486057
     },
     {
       "name": "Амина",
@@ -1574,6 +1949,286 @@
           "adam_id": 570510529
         }
       ]
+    },
+    {
+      "name": "987654321_88442211",
+      "bundle_id": "com.apple.store.987654321",
+      "bundle_ids": [
+        "com.apple.store.987654321",
+        "987654321"
+      ],
+      "adam_id": 987654321,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Утилиты",
+      "version": "1.0.0",
+      "description": "Приложение 987654321_88442211 для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "987654321_88442211 (1.0.0)",
+          "adam_id": 987654321,
+          "version_str": "1.0.0",
+          "bundle_id": "com.apple.store.987654321",
+          "is_delisted": false,
+          "size_str": "0.0 МБ",
+          "size_bytes": 368
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "0.0 МБ",
+      "size_bytes": 368
+    },
+    {
+      "name": "Бизнес",
+      "bundle_id": "kz.rstls.bss",
+      "bundle_ids": [
+        "kz.rstls.bss",
+        "6448994540"
+      ],
+      "adam_id": 6448994540,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "4.6.8",
+      "description": "Приложение Бизнес для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Бизнес (4.6.8)",
+          "adam_id": 6448994540,
+          "version_str": "4.6.8",
+          "bundle_id": "kz.rstls.bss",
+          "is_delisted": false,
+          "size_str": "48.9 МБ",
+          "size_bytes": 51247959
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "48.9 МБ",
+      "size_bytes": 51247959
+    },
+    {
+      "name": "ToRefresh",
+      "bundle_id": "md.elvisanatol.torefresh",
+      "bundle_ids": [
+        "md.elvisanatol.torefresh",
+        "6757861605"
+      ],
+      "adam_id": 6757861605,
+      "category": "Транспорт и навигация",
+      "subcategory": "Транспорт и навигация",
+      "version": "1.3.0",
+      "description": "Приложение ToRefresh для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "ToRefresh (1.3.0)",
+          "adam_id": 6757861605,
+          "version_str": "1.3.0",
+          "bundle_id": "md.elvisanatol.torefresh",
+          "is_delisted": false,
+          "size_str": "257.5 МБ",
+          "size_bytes": 269969207
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "257.5 МБ",
+      "size_bytes": 269969207
+    },
+    {
+      "name": "Yandex Disk",
+      "bundle_id": "ru.yandex.disk",
+      "bundle_ids": [
+        "ru.yandex.disk",
+        "553266487"
+      ],
+      "adam_id": 553266487,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "6180",
+      "description": "Приложение Yandex Disk для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Yandex Disk (6180)",
+          "adam_id": 553266487,
+          "version_str": "6180",
+          "bundle_id": "ru.yandex.disk",
+          "is_delisted": false,
+          "size_str": "347.4 МБ",
+          "size_bytes": 364247392
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "347.4 МБ",
+      "size_bytes": 364247392
+    },
+    {
+      "name": "Todo Business",
+      "bundle_id": "com.todo.business",
+      "bundle_ids": [
+        "com.todo.business",
+        "6740761952"
+      ],
+      "adam_id": 6740761952,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "1.3.0",
+      "description": "Приложение Todo Business для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Todo Business (1.3.0)",
+          "adam_id": 6740761952,
+          "version_str": "1.3.0",
+          "bundle_id": "com.todo.business",
+          "is_delisted": false,
+          "size_str": "388.2 МБ",
+          "size_bytes": 407102922
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "388.2 МБ",
+      "size_bytes": 407102922
+    },
+    {
+      "name": "Solar",
+      "bundle_id": "am.solar.app",
+      "bundle_ids": [
+        "am.solar.app",
+        "6771044537"
+      ],
+      "adam_id": 6771044537,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "4.3.0",
+      "description": "Приложение Solar для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Solar (4.3.0)",
+          "adam_id": 6771044537,
+          "version_str": "4.3.0",
+          "bundle_id": "am.solar.app",
+          "is_delisted": false,
+          "size_str": "166.6 МБ",
+          "size_bytes": 174744596
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "166.6 МБ",
+      "size_bytes": 174744596
+    },
+    {
+      "name": "МойСклад",
+      "bundle_id": "com.lognex.moysklad",
+      "bundle_ids": [
+        "com.lognex.moysklad",
+        "947801592"
+      ],
+      "adam_id": 947801592,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "6.7",
+      "description": "Приложение МойСклад для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "МойСклад (6.7)",
+          "adam_id": 947801592,
+          "version_str": "6.7",
+          "bundle_id": "com.lognex.moysklad",
+          "is_delisted": false,
+          "size_str": "22.9 МБ",
+          "size_bytes": 24001009
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "22.9 МБ",
+      "size_bytes": 24001009
+    },
+    {
+      "name": "Hiddify",
+      "bundle_id": "apple.hiddify.com",
+      "bundle_ids": [
+        "apple.hiddify.com",
+        "6596777532"
+      ],
+      "adam_id": 6596777532,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "4.0.0",
+      "description": "Приложение Hiddify для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Hiddify (4.0.0)",
+          "adam_id": 6596777532,
+          "version_str": "4.0.0",
+          "bundle_id": "apple.hiddify.com",
+          "is_delisted": false,
+          "size_str": "117.0 МБ",
+          "size_bytes": 122693433
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "117.0 МБ",
+      "size_bytes": 122693433
+    },
+    {
+      "name": "Motivaro",
+      "bundle_id": "com.motivaro.release",
+      "bundle_ids": [
+        "com.motivaro.release",
+        "6755754616"
+      ],
+      "adam_id": 6755754616,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "1.2507.1",
+      "description": "Приложение Motivaro для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Motivaro (1.2507.1)",
+          "adam_id": 6755754616,
+          "version_str": "1.2507.1",
+          "bundle_id": "com.motivaro.release",
+          "is_delisted": false,
+          "size_str": "342.6 МБ",
+          "size_bytes": 359261394
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "342.6 МБ",
+      "size_bytes": 359261394
+    },
+    {
+      "name": "Drive T",
+      "bundle_id": "com.delivery.drive.almagul.daurbayeva",
+      "bundle_ids": [
+        "com.delivery.drive.almagul.daurbayeva",
+        "6760469916"
+      ],
+      "adam_id": 6760469916,
+      "category": "Бизнес и утилиты",
+      "subcategory": "Бизнес и утилиты",
+      "version": "1.8.1",
+      "description": "Приложение Drive T для iOS.",
+      "icon_name": "default.png",
+      "versions": [
+        {
+          "label": "Drive T (1.8.1)",
+          "adam_id": 6760469916,
+          "version_str": "1.8.1",
+          "bundle_id": "com.delivery.drive.almagul.daurbayeva",
+          "is_delisted": false,
+          "size_str": "420.9 МБ",
+          "size_bytes": 441377578
+        }
+      ],
+      "is_delisted": false,
+      "size_mb": "420.9 МБ",
+      "size_bytes": 441377578
     }
   ]
 }
