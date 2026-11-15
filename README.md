@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Платформа-macOS%2012.0%2B%20%7C%20Windows%2010%2F11-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Архитектура-Apple%20Silicon%20%7C%20Intel%20%7C%20Windows%20x64-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Стек-SwiftUI%20%7C%20.NET%208%20WPF-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Версия-v1.6.8-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Версия-v1.6.10-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Лицензия-MIT-green?style=flat-square" />
 </p>
 
@@ -42,13 +42,13 @@
 
 ### macOS
 1. Скачайте `.dmg` из раздела [Releases](https://github.com/ShavlaK/OpenStore/releases):
-   * `OpenStore-v1.6.8-Mac-AppleSilicon.dmg` — для Mac с чипами M1, M2, M3, M4.
-   * `OpenStore-v1.6.8-Mac-Intel.dmg` — для Mac с процессорами Intel.
+   * `OpenStore-v1.6.10-Build9-Mac-AppleSilicon.dmg` — для Mac с чипами M1, M2, M3, M4.
+   * `OpenStore-v1.6.10-Build9-Mac-Intel.dmg` — для Mac с процессорами Intel.
 2. Перетащите `Open Store.app` в папку «Программы» (`Applications`).
 3. При первом запуске: правый клик по иконке → **«Открыть»** (для подтверждения в Gatekeeper).
 
 ### Windows
-1. Скачайте архив `OpenStore-v1.6.8-Windows-x64.zip` (или установщик `OpenStore_Setup_v1.6.8.exe`) из раздела [Releases](https://github.com/ShavlaK/OpenStore/releases).
+1. Скачайте архив `OpenStore-v1.6.10-Build9-Windows-x64.zip` (или установщик `OpenStore_Setup_v1.6.10_Build9.exe`) из раздела [Releases](https://github.com/ShavlaK/OpenStore/releases).
 2. Распакуйте архив и запустите `OpenStore.exe`.
 3. Если службы Apple не найдены в системе, приложение предложит настроить драйверы автоматически.
 

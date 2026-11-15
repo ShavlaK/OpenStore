@@ -1,15 +1,15 @@
 {
-  "latest_version": "1.6.9",
-  "build": 8,
+  "latest_version": "1.6.10",
+  "build": 9,
   "min_supported_version": "1.6.4",
   "mandatory": false,
-  "release_tag": "v1.6.9",
-  "published_at": "2026-11-15T01:26:58Z",
-  "release_notes": "Open Store v1.6.9 (Build 8): Windows — исправлена повторная загрузка ранее купленных удалённых приложений, улучшена обработка временных ошибок Apple и определения региона, обновлён каталог. macOS — синхронизирован номер сборки, функции опубликованных стабильных версий сохранены.",
+  "release_tag": "v1.6.10",
+  "published_at": "2026-11-15T09:43:15Z",
+  "release_notes": "Open Store 1.6.10 (Build 9): исправлено обнаружение обновлений Windows и сообщения повторного запроса кода Apple ID. Проверен вход на Windows и macOS. Mac-пакеты синхронизированы по версии и номеру сборки без изменения функций.",
   "downloads": {
-    "mac_arm64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.9/OpenStore-v1.6.9-Build8-Mac-AppleSilicon.zip",
-    "mac_x86_64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.9/OpenStore-v1.6.9-Build8-Mac-Intel.zip",
-    "mac_universal": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.9/OpenStore-v1.6.9-Build8-macOS.zip",
-    "windows_x64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.9/OpenStore-v1.6.9-Build8-Windows-x64.zip"
+    "mac_arm64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.10/OpenStore-v1.6.10-Build9-Mac-AppleSilicon.zip",
+    "mac_x86_64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.10/OpenStore-v1.6.10-Build9-Mac-Intel.zip",
+    "mac_universal": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.10/OpenStore-v1.6.10-Build9-macOS.zip",
+    "windows_x64": "https://github.com/ShavlaK/OpenStore/releases/download/v1.6.10/OpenStore-v1.6.10-Build9-Windows-x64.zip"
   }
 }
